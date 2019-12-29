@@ -43,7 +43,7 @@ CREATE TABLE `cuentas` (
 
 INSERT INTO `cuentas` (`idCuentaUser`, `Plataforma`, `URL`, `Password`, `Comentario`, `idUser`) VALUES
 (36, 'Facebook', 'www.facebook.com', 'RMCLm82-YL', 'Red social', 45),
-(78, 'wqrqeerq', 'qerqerq', '12345', 'qerqerqe', 46),
+(78, 'wqrqeerq', 'qerqerq', '12345', 'qerqerqe', 45),
 (80, 'juanito10', 'elitemagician01@gmail.com', '1231343', 'qwrqwrqe', 46),
 (81, 'juanito10', 'elitemagician01@gmail.com', '13113', '121221', 46);
 
